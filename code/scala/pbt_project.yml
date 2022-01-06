@@ -1,0 +1,22 @@
+name: jesse.lebsack
+description: User fork
+version: 1
+author: rosendo.kunze@hotmail.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: rosendo.kunze@hotmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-06 01:18:25'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Calvin_Dibbert:
+    name: Calvin_Dibbert
+    description: Really solid info
+    createdAt: '2022-01-06 01:18:25'
+    author: rosendo.kunze@hotmail.com
